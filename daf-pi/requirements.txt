@@ -1,0 +1,10 @@
+jwcrypto==1.4.2
+cryptography==40.0.2
+pycryptodome==3.9.8
+PyJWT==2.4.0
+Authlib==0.15.2
+typing==3.7.4.3
+pytype==2020.1.8
+tinydb==4.2.0
+wheel==0.40.0
+pyserial==3.4

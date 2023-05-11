@@ -1,0 +1,11 @@
+{
+    "daf_config": {
+        "mt": "./daf_virtual_rasp/tests/resources/daf-registrado/mt-registrado.json",
+        "ms": "./daf_virtual_rasp/tests/resources/daf-registrado/ms-registrado.json",
+        "iddaf": "ughyrcDYBW0zaIGJG3Z6iw",
+        "modelo": "daf_virtual_rasp",
+        "MaxDFe": 10,
+        "MaxDFeModel": 10,
+        "imagemSB":"./daf_virtual_rasp/tests/resources/imagem/sb"
+    }
+}
